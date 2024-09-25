@@ -1,8 +1,10 @@
-
+import JobListing from "../component/JobListing";
 const JobsPage = () => {
   return (
-    <div>JobsPage</div>
-  )
-}
+    <>
+      <JobListing />
+    </>
+  );
+};
 
 export default JobsPage;
