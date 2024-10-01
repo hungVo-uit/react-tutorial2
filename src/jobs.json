@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "df5a",
-      "title": "Test",
-      "type": "Part-Time",
-      "description": "Test some thing",
-      "salary": "Under $50K",
-      "location": "Dinh An",
-      "company": {
-        "name": "Nha ong Ut",
-        "description": "Lam Nong",
-        "contactEmail": "tester@gmail.com",
-        "contactPhone": "5555-555-55"
-      }
     }
   ]
 }
