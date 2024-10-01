@@ -14,9 +14,9 @@ const AddJobPage = ({ addJobSubmit }) => {
   const [contactEmail, setContactEmail] = useState("");
   const [contactPhone, setContactPhone] = useState("");
 
-  const submitFrom = (e) => {
+  const submitForm = (e) => {
     e.preventDefault();
-    const newJOb = {
+    const newJob = {
       title,
       type,
       description,
